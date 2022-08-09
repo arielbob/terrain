@@ -17,7 +17,7 @@ Terrain generation using the [diamond-square algorithm](https://en.wikipedia.org
 - T to hide textures
 - Z to show wireframe made up of initial points
 
-The file used as the initial points is in `data/initial_terrain1.txt'.
+The file used as the initial points is in `data/initial_terrain1.txt`.
 
 The program expects the parameters in initial heights files to be specified in this order:
 - Low-resolution height map exponent (n)
